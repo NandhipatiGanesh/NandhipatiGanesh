@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Real estate**
+- 🔭 I’m currently working on **Real estate web Development** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
